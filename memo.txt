@@ -1,0 +1,31 @@
+django： full stack： 本格的なアプリケーション : 様々な機能を実装しやすいように設計
+Flask： Micro ： 簡単なアプリケーション： 手軽にアプリケーションやWebAPIを作りたい時
+FastAPI : Micro : モダンで高速にAPIを構築する : ドキュメントが充実。直観的に記述できる設計で、デバッグも容易。
+Dash : Micro : 可視化に特化したアプリケーション : データを可視化するダッシュボードを作りたい場合に便利
+Streamlit : Micro : フロントエンドを簡単に作れるアプリケーション : HTML, CSSが不要。
+
+
+visual Studio Code
+入力中の関数などにカーソルがあるときに「Windows:Shift+Ctrl+Space」を入力すると表示できます。
+
+---
+
+fストリングス
+f'Iteration {i+1}
+
+
+
+git config --global user.name "konron56"
+
+
+git config --global user.email "konron56@gmail.com"
+
+git config user.name
+
+git config user.email
+
+
+リポジトリを作成する
+visual code で
+ターミナル（git bash）
+git remote add origin https://github.com/konron56/youtube-streamlit
