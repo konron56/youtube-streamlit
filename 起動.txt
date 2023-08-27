@@ -1,7 +1,0 @@
-cd C:\Users\Konron\Desktop\pythonapp
-code
-
-
-
-streamlit run main.py
-
